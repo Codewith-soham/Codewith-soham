@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack <br>🌱 I’m currently learning Java , DSA<br>💬 Ask me about Frontend JS<br>⚡ Fun fact 
+🔭 I’m currently working on Full stack <br>🌱 I’m currently learning React , Nodejs , DSA<br>💬 Ask me about Frontend JS<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
