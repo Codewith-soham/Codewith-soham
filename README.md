@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-soham&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-soham" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently working with **Node.js**
 
 - 📫 How to reach me **ghadgesoham2006@gmail.com**
 
